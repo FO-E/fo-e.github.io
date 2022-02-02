@@ -31,5 +31,5 @@ Contact
 Email: *frimpongemmanuelobeng@gmail.com*
 
 *Hanbat National University*  
-*Department of Information and Communication Engineering* *(N4-312)*
+*Department of Information and Communication Engineering* *(N4-312)* <br />
 *34158,* *Daejeon*
