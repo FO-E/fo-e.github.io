@@ -19,8 +19,8 @@ redirect_from:
  
 Favorite Quotes
 ------
-* *Learn continually - there is always "one more thing" to learn! - Steve Jobs
-* *Education is not learning of facts, but the training of the mind to think. - Albert Einstein
+* *Learn continually - there is always "one more thing" to learn! - Steve Jobs*
+* *Education is not learning of facts, but the training of the mind to think. - Albert Einstein*
 
 Recent News
 ------
@@ -28,8 +28,8 @@ Recent News
 
 Contact
 ------
-Email: *frimpongemmanuelobeng@gmail.com
+Email: *frimpongemmanuelobeng@gmail.com*
 
-*Hanbat National University 
-*Department of Information and Communication Engineering (N4-312)
-*34158, Daejeon
+*Hanbat National University*  
+*Department of Information and Communication Engineering (N4-312)*
+*34158, Daejeon*
