@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research Areas"
 permalink: /leisure/
 author_profile: true
