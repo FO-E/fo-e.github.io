@@ -1,6 +1,6 @@
 ---
 title: "Research Areas"
-permalink: /roverview/
+permalink: /overview/
 author_profile: true
 ---
 
