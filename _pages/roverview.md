@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research Areas"
 permalink: /roverview/
 author_profile: true
