@@ -8,52 +8,35 @@ redirect_from:
 ---
 
 {% include base_path %}
+Upload softcopy of cv here
+Summary of CV
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Information and Communication Engineering, Hanbat National University, December 2022 (expected)
+* B.Sc. in Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, June 2019
 
-Work experience
+Current Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* _Graduate Research Assistant_ at Intelligent Communication  and Information Security Lab, March 2021 - Present 
+  * Currently researhing Multi-Preamble Cellular Random Access Framework
+  * Researched deep learning based end-to-end wireless communication and physical layer security
+  * Mentored undergraduates on developing a deep learning based AI chatbot, Hayanmind Inc. Project
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical:
+  * Wireless Communication
+  * Physical Layer Security
+  * Machine/Deep Learning
+* Programming: 
+  * Latex
+  * Python (TensorFlow, Keras, Pytorch, scikit-learn, Pandas)
+  * Matlab
+  * C
+* Competitive Edge: 
+  * Excellent probem solving skills
+  * Self-motivated
+  * Results oriented
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
