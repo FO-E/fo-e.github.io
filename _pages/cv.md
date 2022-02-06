@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 Upload softcopy of cv here
 Summary of CV
 
