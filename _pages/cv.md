@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Emmanuel Obeng Frimpong"
+title: "FO-E"
 permalink: /cv/
 author_profile: true
 redirect_from:
