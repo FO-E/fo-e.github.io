@@ -5,6 +5,6 @@ permalink: /leisure/
 author_profile: true
 ---
 
-## Fun Time
-When I am not doing doing research, this is what I do. 
+## Happy Time
+When I am not doing research, this is what I do for fun. 
 **Upload pictures
