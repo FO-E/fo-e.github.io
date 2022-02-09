@@ -16,7 +16,7 @@ redirect_from:
   * Wireless communication
   * Physical Layer Security
   * Machine/Deep Learning applications to wireless communication.
-  * Optimization
+  * Convex Optimization
  
 Favorite Quotes
 ------
