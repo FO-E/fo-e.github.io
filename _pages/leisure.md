@@ -9,7 +9,6 @@ author_profile: true
 When I am not doing research, I like:
 * Watching sports (Soccer and Basketball)
 * Reading 
-* Playing video games
 * Playing piano
 
 
