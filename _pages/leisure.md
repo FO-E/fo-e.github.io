@@ -6,5 +6,10 @@ author_profile: true
 ---
 
 ## Happy Time
-When I am not doing research, this is what I do for fun. 
-**Upload pictures
+When I am not doing research, I like:
+* Watching sports (Soccer and Basketball)
+* Reading 
+* Playing video games
+
+
+**Yet to upload pictures
