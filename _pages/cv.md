@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 *** Yet to upload copy of detailed cv
+[Detailed CV](/files/cv.pdf)
 
 Education
 ======
