@@ -18,7 +18,7 @@ Education
 Current Position
 ======
 * _Graduate Research Assistant_ at Intelligent Communication  and Information Security Lab, March 2021 - Present 
-  * Currently researhing Multi-Preamble Cellular Random Access Framework
+  * Currently researhing vulnerability analysis in mutiuser mimo networks
   * Researched deep learning based end-to-end wireless communication and physical layer security
   * Mentored undergraduates on developing a deep learning based AI chatbot, Hayanmind Inc. Project
  
@@ -33,7 +33,8 @@ Skills
   * Latex
   * Python (TensorFlow, Keras, Pytorch, scikit-learn, Pandas)
   * Matlab
-  * C
+  * C/C++
+  * USRP/GNU Companion
 * Competitive Edge: 
   * Excellent probem solving skills
   * Self-motivated
