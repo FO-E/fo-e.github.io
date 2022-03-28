@@ -34,7 +34,7 @@ Skills
   * Python (TensorFlow, Keras, Pytorch, scikit-learn, Pandas)
   * Matlab
   * C/C++
-  * USRP/GNU Companion
+  * USRP/GNU Radio Companion
 * Competitive Edge: 
   * Excellent probem solving skills
   * Self-motivated
