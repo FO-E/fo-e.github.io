@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a graduate research assistant in the Information and Communication Engineering Department at [Hanbat National University](https://www.hanbat.ac.kr/eng/). Specifically, I work in the [Intelligent Communication and Information Security (ICIS) Lab](https://sites.google.com/view/hbnu-icis) under the advice of Prof. Inkyu Bang and Prof. Taehoon Kim (co-supervisor). 
+* I am a graduate research assistant in the Intelligent Media Engineering Department at [Hanbat National University](https://www.hanbat.ac.kr/eng/). Specifically, I work in the [Intelligent Communication and Information Security (ICIS) Lab](https://sites.google.com/view/hbnu-icis) under the advice of Prof. Inkyu Bang and Prof. Taehoon Kim (co-supervisor). 
 
 * I received my BSc. degree in telecommunication engineering from the [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/) in May 2019. I am currently working on my MSc. degree and expected to complete in December 2022. 
 
@@ -28,6 +28,9 @@ Favorite Quotes
 
 Recent News
 ------
+* December 2022 - Our work on Deep Learning and Physical-layer security was accepted for publication in ICT Express, Elsevier Journal 
+* December 2022 - Defended my masters thesis
+* June 2022 - Our work on IRIS was presented in 2022 summer KICS conference in Jeju Island, South Korea
 * March 2021 - I started working at ICIS lab as a graduate research assistant
 
 Contact
@@ -35,5 +38,5 @@ Contact
 Email: *frimpongemmanuelobeng@gmail.com*
 
 *Hanbat National University*  
-*Department of Information and Communication Engineering* *(N4-312)* <br />
+*Department of Intelligent Media Engineering* *(N4-614)* <br />
 *34158,* *Daejeon*
