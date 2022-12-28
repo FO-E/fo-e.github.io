@@ -12,7 +12,7 @@ Some of the technical courses I have enrolled in:
 * Probability and Statistics 
 * Signal Processing for Wireless Communication
 * Information Theory
-* Convex Optimization (current class)
+* Convex Optimization
 * Machine Learning, Deep Learning and Bayesian Learning: Udemy
 * MIT6.0002 - Introduction to Computational Thinking and Data Science
 
