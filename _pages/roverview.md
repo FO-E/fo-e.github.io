@@ -26,4 +26,4 @@ I worked in the domain of deep learning and physical layer security. Deep learni
 
 ## Publictions
 * **Emmanuel Obeng Frimpong**, Taehoon Kim, Inkyu Bang, ’Physical-Layer Security with Irregular Reconfigurable Intelligent Surfaces for 6G Networks’ MDPI Sensors, 2023 (To be submitted)
-* **Emmanuel Obeng Frimpong**, Taehoon Kim, Inkyu Bang, ’Deep Learning Approach for Physical-Layer Security in Gaussian Multiple Access Wiretap Channel’ ICT Express-Elsevier, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2405959522001667)
+* **Emmanuel Obeng Frimpong**, Taehoon Kim, Inkyu Bang, ’Deep Learning Approach for Physical-Layer Security in Gaussian Multiple Access Wiretap Channel’ ICT Express-Elsevier, 2022. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405959522001667)
