@@ -18,7 +18,7 @@ Some of the technical courses I have enrolled in:
 
 ## <ins>Development of Physical Layer Security Technology for 6G Communication Networks</ins>
 In this project, we guarantee physical layer secrecy using an irregular reconfigurable intelligent surface (IRIS). Reconfigurable intelligent surface (RIS) has been considered as an effective way to enhance the performance of wireless systems, and has the ability to manipulate the wireless medium. RIS is a low cost device that has passive reflecting elements, each being able to reflect incident wireless signals at specified amplitude and phase. To ensure practicality of implementation and reduction in system complexity, we used IRIS where some reflecting elements are activated, unlike RIS which uses all elements in transmission. 
-[comment]: <> We considered a scenario where a multi-antenna base station sends a confidential message using IRIS to a single-antenna user in the presence of a single [comment]: <> antenna eavesdropper. Then we formulated a non-convex secrecy rate maximization problem and propose an algorithm to solve this problem.
+<!-- We considered a scenario where a multi-antenna base station sends a confidential message using IRIS to a single-antenna user in the presence of a single antenna eavesdropper. Then we formulated a non-convex secrecy rate maximization problem and propose an algorithm to solve this problem.-->
 
 
 ## <ins>Unified Design of Physical-Layer Security and Machine Learning for 5G Wireless Systems</ins>
