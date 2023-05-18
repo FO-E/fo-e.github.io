@@ -40,5 +40,5 @@ Contact
 Email: *frimpongemmanuelobeng@gmail.com*
 
 *George Mason University*  
-*4400 University Drive* 
+*4400 University Drive* <br />
 *Fairfax, Virginia 22030*
