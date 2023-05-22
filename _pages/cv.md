@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Electrical and Computer Engineering, currently 
+* Ph.D., Electrical and Computer Engineering, _currently_ 
 * M.Sc., Intelligent Media Engineering, Hanbat National University, December 2022 
 * B.Sc., Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, June 2019
 
