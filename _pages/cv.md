@@ -19,7 +19,7 @@ Education
 Current Position
 ======
 * _Graduate Research Assistant_ in Electrical and Computer Engineering Department, Jan 2023 - Present 
-  <!---* Researched guaranteeing physical-layer security using reconfigurable intelligent surfaces
+  <!--* Researched guaranteeing physical-layer security using reconfigurable intelligent surfaces
   * Worked on security vulnerability analysis in LTE networks
   * Researched deep learning based end-to-end wireless communication and physical layer security
   * Mentored undergraduates on developing a deep learning based AI chatbot, Hayanmind Inc. Project-->
