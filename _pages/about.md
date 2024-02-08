@@ -12,7 +12,7 @@ redirect_from:
 
 * I received my BSc. degree in telecommunication engineering from the [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/) in May 2019 and my MSc. degree in Intelligent Media Engineering from [Hanbat National University](https://www.hanbat.ac.kr/eng/) in December 2022. 
 
-* Though I have not fully established my research niche, I am generally interested in:
+* I am interested in (but not limited to):
   * Wireless communications (6G)
   * Physical Layer Security
   * Machine/Deep/ Reinforcement Learning applications in wireless communication.
