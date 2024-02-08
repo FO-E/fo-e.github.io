@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Electrical and Computer Engineering, _currently_ 
+* Ph.D., Electrical and Computer Engineering, _current_ 
 * M.Sc., Intelligent Media Engineering, Hanbat National University, December 2022 
 * B.Sc., Telecommunication Engineering, Kwame Nkrumah University of Science and Technology, June 2019
 
@@ -25,7 +25,7 @@ Skills
 * Technical:
   * Wireless Communication
   * Physical Layer Security
-  * Machine/Deep Learning
+  * Machine/Deep/Reinforcement Learning
 * Programming: 
   * Latex
   * Python (TensorFlow, Keras, Pytorch, scikit-learn, Pandas)
